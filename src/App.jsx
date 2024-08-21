@@ -16,7 +16,7 @@ const App = () => {
   return (
     <div className="bg-black">
       <audio ref={audioRef} loop>
-        <source src="public\audio.mp3" type="audio/mp3" />
+        <source src="audio.mp3" type="audio/mp3" />
         Your browser does not support the audio element.
       </audio>
       {isPlaying ? (

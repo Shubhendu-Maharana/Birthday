@@ -53,7 +53,7 @@ function MyAlbum(props) {
               Birthday
             </span>
             <img
-              src="src\assets\party-blower-birthday-svgrepo-com.svg"
+              src="party-blower.svg"
               alt=""
               className="h-36 mt-6"
             />
